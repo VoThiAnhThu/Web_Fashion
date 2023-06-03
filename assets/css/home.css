@@ -1,0 +1,132 @@
+/*Slider*/
+a:hover {
+    opacity: 0.7;
+}
+
+.slider {
+    position: relative;
+    padding-top: 50%;
+    text-align: center; /*Căn giữa obj con*/
+    background: url('/assets/img/slider.avif') top center / cover no-repeat;
+}
+
+.slider-title {
+    position: absolute;
+    top: 40%;
+    left: 32%;
+    color: #fff;
+    font-size: 70px;
+    font-weight: 600;
+    
+}
+
+.slider-link {
+    position: absolute;
+    bottom: 28%;
+    left: 45%;
+    padding: 15px 50px;
+    color: #000;
+    background-color: #fff;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.slider-link:hover {
+    color: #000;
+}
+/*About*/
+.drs-title {
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.drs-body {
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.pro-img {
+    position: relative;
+    width: 100%;
+}
+
+.pro-text {
+    position: relative;
+    top: 50%;
+    letter-spacing: 1px;
+}
+
+.pro-title {
+
+}
+
+.pro-drs {
+    margin: 10px auto 30px auto;
+}
+
+.pro-link {
+    background-color: #0c0b0bd3;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.pro-link:hover {
+    color: #fff;
+    width: 100%;
+}
+
+.slogan {
+    height: 350px;
+    background-color: #ddddddc4;
+    text-align: center;
+}
+
+.slogan-content{
+    position: relative;
+    top: 42%;
+    font-size: 30px;
+    font-weight: 500;
+    
+}
+.slogan-speaker{
+    position: relative;
+    top: 48%;
+    font-size: 20px;
+}
+
+.look {
+    position: relative;
+    padding-top: 50%;
+    text-align: center; /*Căn giữa obj con*/
+    background: url('/assets/img/newlook.avif') top center / cover no-repeat;
+}
+
+.look-title {
+    position: absolute;
+    top: 40%;
+    left: 32%;
+    color: #fff;
+    font-size: 70px;
+    font-weight: 600;
+    
+}
+
+.look-link {
+    position: absolute;
+    bottom: 28%;
+    left: 45%;
+    padding: 15px 50px;
+    color: #000;
+    background-color: #fff;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.look-link:hover {
+    color: #000;
+}

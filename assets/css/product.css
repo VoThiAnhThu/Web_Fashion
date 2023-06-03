@@ -1,0 +1,44 @@
+.pro-title {
+    font-size: 60px;
+    text-align: center;
+}
+
+.product-list {
+    
+}
+
+.product-item {
+   
+}
+
+.product-img {
+    height: 330px;
+    width: 100%;
+}
+
+.product-name {
+    text-transform: capitalize;
+    margin-top: 15px;
+    font-size: 28px;
+}
+
+.product-drs {
+    
+}
+
+.product-price {
+
+}
+
+.product-link {
+    text-decoration: none;
+    margin-left: 7px;
+    border: 1px solid;
+    padding: 0px 20px;
+    background-color: #000;
+    color: #fff;
+}
+
+.page-nav {
+    justify-content: center;
+}
